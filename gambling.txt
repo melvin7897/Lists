@@ -2511,3 +2511,12 @@
 0.0.0.0 zenitbet.com
 0.0.0.0 zetpoker.eu
 0.0.0.0 zodiacu.com
+0.0.0.0 https://www.ptgaming.ph/
+0.0.0.0 https://www.playtime.ph/
+0.0.0.0 https://scattergamesph.com/casino/playtime/
+0.0.0.0 https://bingoplus.ph/blog/playtime-casino/
+0.0.0.0 https://playtimegame.com.ph/
+0.0.0.0 https://playtimecasino.ph/
+0.0.0.0 https://playtime.org.ph/
+0.0.0.0 https://playtimeapp.net/
+0.0.0.0 https://top-onlinecasino.ph/playtime-campaign/
